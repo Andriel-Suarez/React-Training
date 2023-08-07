@@ -17,14 +17,7 @@ function App() {
                 <th scope='col'>Assigned to</th>
               </tr>
             </thead>
-            <tbody>
-              <tr>
-                <th scope='row'>1</th>
-                <td>React.js</td>
-                <td>Andriel</td>
-              </tr>
-              <ToDo/>
-            </tbody>
+            <ToDo/>
             <button className='btn btn-primary mt-5'>Add To-Do</button>
 
           </table>
